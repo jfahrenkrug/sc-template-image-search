@@ -1,0 +1,11 @@
+=============================================================================
+Project:   ImageSearch
+Copyright: ©2011 Springenwerk 
+=============================================================================
+
+A simple demo app that shows the mixed use of "normal" sproutcore view with
+templateviews: It's the google image search client. Again. Sorry.
+I made this for my talk at jsconf.it in 2011.
+
+To run it, just clone it, make sure you have sproutcore installed, and run 
+sc-server from within the directory.

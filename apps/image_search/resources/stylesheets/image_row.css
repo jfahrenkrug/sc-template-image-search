@@ -1,0 +1,35 @@
+div.image_row {
+  height: 80px;
+  position: relative;
+}
+
+div.image_row div.left {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  left: 0px;
+}
+
+div.image_row div.right {
+  position: absolute;
+  left: 70px;
+  top: 22px;
+  height: 18px;
+  width: 100%;
+}
+
+.image_row label {
+  height: 18px;
+  line-height: 18px;
+  overflow: hidden;
+  white-space: nowrap;
+  font-weight: bold;
+}
+
+.image_row img {
+  max-width: 60px;
+  max-height: 60px;
+  height: 60px;
+  margin-right: 10px;
+}
+
